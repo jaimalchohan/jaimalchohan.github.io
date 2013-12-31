@@ -1,4 +1,9 @@
 ---
 
-"theme-bootstrap-3-0-3" : 
+theme-bootstrap-3-0-3 : 
   use: "theme"
+
+widgets :
+  analytics :
+    use : "google"
+    tracking_id : "UA-13259853-1"
