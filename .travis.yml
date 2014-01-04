@@ -1,6 +1,7 @@
 language: ruby
 rvm:
   - 1.9.3
+bundler_args: ""
 script: "bundle exec ruhoh publish github --trace"
 notifications:
   recipients:
