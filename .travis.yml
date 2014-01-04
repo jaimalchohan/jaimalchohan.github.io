@@ -5,3 +5,6 @@ script: "bundle exec rake ruhoh publis github"
 notifications:
   recipients:
     - jaimalchohan@gmail.com
+branches:
+  only:
+    - gh-pages
