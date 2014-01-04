@@ -19,4 +19,4 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  ruhoh (~> 2)
+  ruhoh (= 2.6)
