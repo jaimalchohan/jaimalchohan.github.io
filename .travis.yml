@@ -1,7 +1,7 @@
 language: ruby
 rvm:
   - 1.9.3
-bundler_args: ""
+bundler_args: "--local"
 script: "bundle exec ruhoh publish github"
 notifications:
   recipients:
