@@ -1,7 +1,7 @@
 language: ruby
 rvm:
   - 1.9.3
-script: "bundle exec rake ruhoh publis github"
+script: "bundle exec ruhoh publish github --trace"
 notifications:
   recipients:
     - jaimalchohan@gmail.com
