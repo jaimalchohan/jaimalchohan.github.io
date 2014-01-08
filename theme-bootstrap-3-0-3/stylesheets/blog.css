@@ -149,6 +149,11 @@ h6, .h6 {
 .blog-post-meta {
   margin-bottom: 20px;
   color: #999;
+}/* see img-responsive*/
+.blog-post img {
+  display: block;
+  height: auto;
+  max-width: 100%;
 }
 
 
