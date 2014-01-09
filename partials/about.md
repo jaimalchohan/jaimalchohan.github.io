@@ -1,5 +1,5 @@
-####Me
-A developer in London
+##Me
+Principal Developer & Anti-Cooking Activist at [JUST EAT](http://just-eat.co.uk)
 
  #eat #drink #develop #party
 
