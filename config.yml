@@ -7,3 +7,6 @@ widgets :
   analytics :
     use : "google"
     tracking_id : "UA-13259853-1"
+
+"posts" :
+	"sort" : ["date", "desc"]
